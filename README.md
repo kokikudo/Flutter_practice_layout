@@ -1,6 +1,7 @@
 # practicelayout
 
-A new Flutter application.
+Flutterのレイアウトの練習のために作成しました。
+レイアウトの確認はこのファイルで行うこと。
 
 ## Getting Started
 
